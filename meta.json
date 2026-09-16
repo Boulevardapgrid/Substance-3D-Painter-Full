@@ -1,0 +1,23 @@
+{
+  "repo": "substance-3d-painter-full",
+  "product": "Substance 3D Painter Full",
+  "kind": "3d",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new4",
+  "format": "license-md-toolix-v1",
+  "category": "texturing",
+  "topics": [
+    "substance-painter",
+    "smart-mat-desk",
+    "mesh-map-windows",
+    "painter-2026",
+    "how-to-install-painter",
+    "painter-desktop-package",
+    "wear-dirt-suite",
+    "anchor-fill-tools",
+    "lookdev-paint-studio",
+    "substance-3d-pro"
+  ],
+  "site": "toolix.me"
+}
